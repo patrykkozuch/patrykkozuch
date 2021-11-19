@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there!
 
-<!--
-**rico305/rico305** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Few things about me:
+* AGH's student
+* Hobbist photographer
+* the guy sitting inside his cave doing backend developer's work
 
-Here are some ideas to get you started:
+## My projects
+*To be continued*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technologies & languages I use
+* mostly PHP & MySQL
+* bootstrap
+* python
+* and so on
+
+Generally web development.
