@@ -2,7 +2,7 @@
 
 ## Few things about me:
 * AGH's student
-* Hobbist photographer (https://instagram.com/patryk.kozuch)[Check it out!]
+* Hobbist photographer ([Check it out!📸](https://instagram.com/patryk.kozuch))
 * the guy sitting inside his cave doing backend developer's work
 
 ## My projects
