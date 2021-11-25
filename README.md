@@ -1,11 +1,11 @@
-### Hi there!
+# Hi there!
 
 ## Few things about me:
 * AGH's student
 * Hobbist photographer ([Check it out!📸](https://instagram.com/patryk.kozuch))
 * the guy sitting inside his cave doing backend developer's work
 
-## Projects I'm (at least partially) proud of
+## Projects I'm proud of
 * [FB Photography](https://fbphotography.pl/) - Photographer portfolio
 * [Fractals](http://fraktale.pkozuch.pl/) - **site was distincted in AGH "Zobaczyć matematykę" contest**
 * [ProMasters League](https://promastersleague.com.pl) - Event Agency
