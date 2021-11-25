@@ -1,4 +1,4 @@
-# Hi there!
+# Patryk Kożuch
 
 ## Few things about me:
 * AGH's student
