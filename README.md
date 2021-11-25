@@ -1,4 +1,4 @@
-# Patryk Kożuch - beginner Web Developer / ML Specialist 
+# Patryk Kożuch <br>Beginner Web Developer / ML Specialist 
 
 ## Few things about me:
 * AGH's student
