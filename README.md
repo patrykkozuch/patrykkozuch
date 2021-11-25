@@ -11,7 +11,7 @@
 * [ProMasters League](https://promastersleague.com.pl) - Event Agency
 * [MKS Krakus](https://mkskrakus.pl) - local football team
 * [Limako Meble](https://limakomeble.pl) - furniture manufacturer
-* 
+
 ### And some smaller projects
 * [Site about's Cracow](http://wok.pkozuch.pl/)
 * [Works of art database](https://sztuka.pkozuch.pl/) - made for my GF to help her learn to her mature exam
