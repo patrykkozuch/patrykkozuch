@@ -3,7 +3,7 @@
 ## Sites
 * [Github Pages Page](https://rico305.github.io/rico305)
 * [Page Published using Bootstrap Studio](https://rico305.bss.design/)
-* 
+
 ## Few things about me:
 * AGH's student
 * Hobbist photographer ([Check it out!📸](https://instagram.com/patryk.kozuch))
