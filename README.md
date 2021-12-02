@@ -3,7 +3,7 @@
 ## Links
 * [Github Pages Page](https://rico305.github.io/rico305)
 * [Page Published using Bootstrap Studio](https://rico305.bss.design/)
-* [Fork z Papers with Code](https://github.com/rico305/MPC-CBF)
+* [Fork from Papers with Code](https://github.com/rico305/MPC-CBF)
 
 ## Few things about me:
 * AGH's student
