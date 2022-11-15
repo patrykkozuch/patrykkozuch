@@ -10,6 +10,7 @@
 
 ## Projects I'm proud of
 * [PFS Driver Panel](https://polishf1series.com) - Panel for managing contestants and races in F1 2022 e-racing league.
+* [Poker](https://github.com/patrykkozuch/Poker) - poker game written for programming classes during studies
 * [FB Photography](https://fbphotography.pl/) - Photographer portfolio
 * [ProMasters League](https://promastersleague.com.pl) - Event Agency
 * [MKS Krakus](https://mkskrakus.pl) - local football team
@@ -18,8 +19,8 @@
 ### And some smaller projects
 * [Site about Cracow](http://wok.pkozuch.pl/)
 * [Works of art database](https://sztuka.pkozuch.pl/) - made for my GF to help her learn to her mature exam
-* EXIF data synchronizer - made so that I can synchronize capture date in photos made with few cameras, which time is not synchronized
-* Basic in & out tester - tester for my C/C++ classes, simple comparing two \*.in and \*.out files
+* [EXIF data synchronizer](https://github.com/patrykkozuch/EXIFDataSynchronizer) - made so that I can synchronize capture date in photos made with few cameras, which time is not synchronized
+* [Basic in & out tester](https://github.com/patrykkozuch/basic-in-out-tester) - tester for my C/C++ classes, simple comparing two \*.in and \*.out files
 
 ## Certificates
 * **AGH** - Introduction to programming in Java (2022)
