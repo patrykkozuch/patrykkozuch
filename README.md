@@ -18,6 +18,8 @@
 ### And some smaller projects
 * [Site about Cracow](http://wok.pkozuch.pl/)
 * [Works of art database](https://sztuka.pkozuch.pl/) - made for my GF to help her learn to her mature exam
+* EXIF data synchronizer - made so that I can synchronize capture date in photos made with few cameras, which time is not synchronized
+* Basic in & out tester - tester for my C/C++ classes, simple comparing two \*.in and \*.out files
 
 
 ## Technologies & languages I use
