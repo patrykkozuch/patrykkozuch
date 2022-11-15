@@ -21,6 +21,11 @@
 * EXIF data synchronizer - made so that I can synchronize capture date in photos made with few cameras, which time is not synchronized
 * Basic in & out tester - tester for my C/C++ classes, simple comparing two \*.in and \*.out files
 
+## Certificates
+* **AGH** - Introduction to programming in Java (2022)
+* **Python Institute** - PCAP: Programming Essentials in Python (2021
+* **C++ Institute** - CPA: Programming Essentials in C++ (2019)
+* **CISCO** - IT Essentials (2017)
 
 ## Technologies & languages I use
 * Mostly PHP (7/8) (+ PHPUnit)
