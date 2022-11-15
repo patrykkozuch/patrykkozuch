@@ -3,7 +3,6 @@
 ## Few things about me:
 * AGH's IT & AI student
 * Hobbist photographer ([Check it out!📸](https://instagram.com/patryk.kozuch))
-* the guy sitting inside his cave doing backend developer's work
 
 ## Awards
 * ["Zobaczyć matematykę" AGH Award](https://fraktale.pkozuch.pl) - awarded in 2019
