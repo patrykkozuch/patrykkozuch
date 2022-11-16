@@ -9,7 +9,7 @@
 
 ## Projects I'm proud of
 * [PFS Driver Panel](https://polishf1series.com) - Panel for managing contestants and races in F1 2022 e-racing league.
-* [Poker **IN PROGRESS**](https://github.com/patrykkozuch/Poker) - poker game written for programming classes during studies
+* Poker **IN PROGRESS** - poker game written for programming classes during studies
 * [FB Photography](https://fbphotography.pl/) - Photographer portfolio
 * [ProMasters League](https://promastersleague.com.pl) - Event Agency
 * [MKS Krakus](https://mkskrakus.pl) - local football team
