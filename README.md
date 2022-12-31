@@ -8,12 +8,12 @@
 * ["Zobaczyć matematykę" AGH Award](https://fraktale.pkozuch.pl) - awarded in 2019
 
 ## Projects I'm proud of
-* [PFS Driver Panel](https://polishf1series.com) - Panel for managing contestants and races in F1 2022 e-racing league.
-* Poker **IN PROGRESS** - poker game written for programming classes during studies
-* [FB Photography](https://fbphotography.pl/) - Photographer portfolio
-* [ProMasters League](https://promastersleague.com.pl) - Event Agency
-* [MKS Krakus](https://mkskrakus.pl) - local football team
-* [Limako Meble](https://limakomeble.pl) - furniture manufacturer
+* [Poker Game](https://github.com/patrykkozuch/Poker) - poker game written for programming classes. Java, Maven, JUnit featured.
+* [PFS Driver Panel](https://polishf1series.com) - Panel for managing contestants and races in F1 2022 e-racing league. (PHP, self-made from scratch)
+* [FB Photography](https://fbphotography.pl/) - Photographer portfolio (Wordpress)
+* [ProMasters League](https://promastersleague.com.pl) - Event Agency (Wordpress)
+* [MKS Krakus](https://mkskrakus.pl) - local football team (Wordpress)
+* [Limako Meble](https://limakomeble.pl) - furniture manufacturer (Wordpress)
 
 ### And some smaller projects
 * [Site about Cracow](http://wok.pkozuch.pl/)
@@ -29,9 +29,9 @@
 
 ## Technologies & languages I use
 * Mostly PHP (7/8) (+ PHPUnit)
+* Python (+ pytest, numpy, learning tf and keras)
 * MySQL/PostgreSQL
 * Java (+ Maven, jUnit)
 * C/C++
 * Bootstrap
-* Python (+ pytest, numpy)
 * and so on
