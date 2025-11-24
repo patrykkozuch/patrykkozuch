@@ -1,37 +1,27 @@
 # Patryk Kożuch
 
-## Few things about me:
-* AGH's IT & AI student
-* Hobbist photographer ([Check it out!📸](https://instagram.com/patryk.kozuch))
+### AI/ML Engineer | M.Sc. Student @ AGH Kraków
 
-## Awards
-* ["Zobaczyć matematykę" AGH Award](https://fraktale.pkozuch.pl) - awarded in 2019
+AI/ML Engineer and Master's student specializing in **Artificial Intelligence and Machine Learning** at AGH University of Science and Technology. Highly interested in new technologies, especially Large Language Models and MCP.
 
-## Projects I'm proud of
-* [Poker Game](https://github.com/patrykkozuch/Poker) - poker game written for programming classes. Java, Maven, JUnit featured.
-* [PFS Driver Panel](https://polishf1series.com) - Panel for managing contestants and races in F1 2022 e-racing league. (PHP, self-made from scratch)
-* [FB Photography](https://fbphotography.pl/) - Photographer portfolio (Wordpress)
-* [ProMasters League](https://promastersleague.com.pl) - Event Agency (Wordpress)
-* [MKS Krakus](https://mkskrakus.pl) - local football team (Wordpress)
-* [Limako Meble](https://limakomeble.pl) - furniture manufacturer (Wordpress)
+---
 
-### And some smaller projects
-* [Site about Cracow](http://wok.pkozuch.pl/)
-* [Works of art database](https://sztuka.pkozuch.pl/) - made for my GF to help her learn to her mature exam
-* [EXIF data synchronizer](https://github.com/patrykkozuch/EXIFDataSynchronizer) - made so that I can synchronize capture date in photos made with few cameras, which time is not synchronized
-* [Basic in & out tester](https://github.com/patrykkozuch/basic-in-out-tester) - tester for my C/C++ classes, simple comparing two \*.in and \*.out files
+## Key Projects
 
-## Certificates
-* **AGH** - Introduction to programming in Java (2022)
-* **Python Institute** - PCAP: Programming Essentials in Python (2021
-* **C++ Institute** - CPA: Programming Essentials in C++ (2019)
-* **CISCO** - IT Essentials (2017)
+I enjoy taking on complex challenges, particularly those involving production-level deployment of novel AI techniques.
 
-## Technologies & languages I use
-* Mostly PHP (7/8) (+ PHPUnit)
-* Python (+ pytest, numpy, learning tf and keras)
-* MySQL/PostgreSQL
-* Java (+ Maven, jUnit)
-* C/C++
-* Bootstrap
-* and so on
+* [Qwen Recipe Generator](https://github.com/patrykkozuch/GRPO): Fine-tunng **GRPO** Qwen3-0.6B model (using TRL) focused on structured output (XML) to generate culinary recipes.
+* [Tokenization benchmark](https://github.com/patrykkozuch/tokenization): Benchmark showcasing how tuning the tokenizer to the dataset used affects the training.
+* [Evaluating Frame Stacking Impact in RL](https://github.com/patrykkozuch/frame-stacking-rl): Diploma project for Bachelors degree - evaluates both Frame Stacking and Recurrent Neural Networks in Reinfrocement Learning training
+* [Simple RAG Systems](https://github.com/patrykkozuch/RAG-DV): Minimal RAG application, built in Streamlit utilizing **Qdrant** as the vector store, **Haystack** for the orchestration pipeline.
+* [Mixture of Experts classes](https://github.com/patrykkozuch/moe-lab): Laboratory classes about Mixture Of Experts architecture
+* [Poker game](https://github.com/patrykkozuch/Poker): Online poker game built as a client-server architecture (Java)
+* [CTF writeups](https://github.com/patrykkozuch/ctf-writeups): writeups for the CTF competitions I took part
+---
+
+## Talks
+
+My knowledge sharing activities: talks given on different conferences
+
+* **PyConPL 2025:** Speaker on the topic: ["MCP - świat zwariował. Znowu."](https://www.youtube.com/watch?v=5WqAkNcJb18&t=1s) (early version recording, presented at internal conference at Deployed)
+* **DepCon (internal conference at Deployed)**: [Co łączy ChatGPT i Pydantica?](https://www.youtube.com/watch?v=eFMhEFE-0Jg)
