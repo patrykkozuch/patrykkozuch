@@ -2,7 +2,7 @@
 
 ### AI/ML Engineer | M.Sc. Student @ AGH Kraków
 
-AI/ML Engineer and Master's student specializing in **Artificial Intelligence and Machine Learning** at AGH University of Science and Technology. Highly interested in new technologies, especially Large Language Models and MCP.
+AI/ML Engineer and Master's student specializing in **Artificial Intelligence and Machine Learning** at AGH Kraków. Highly interested in new technologies, especially Large Language Models and MCP.
 
 ---
 
