@@ -12,7 +12,7 @@ I enjoy taking on complex challenges, particularly those involving production-le
 
 * [Qwen Recipe Generator](https://github.com/patrykkozuch/GRPO): Fine-tunng **GRPO** Qwen3-0.6B model (using TRL) focused on structured output (XML) to generate culinary recipes.
 * [ChatterCast](https://github.com/patrykkozuch/ChatterCast): Chatterbox-Turbo based podcast generation
-* [Ribbon Excercise Detection](https://github.com/juliaryb/exercise-detection): Detecting excercises with ribbons using binary mask through 3D convolutions
+* [Ribbon Excercise Detection](https://github.com/patrykkozuch/Ribbon-Exercise-Detection): Detecting excercises with ribbons using binary mask through 3D convolutions
 * [Tokenization benchmark](https://github.com/patrykkozuch/tokenization): Benchmark showcasing how tuning the tokenizer to the dataset used affects the training.
 * [Evaluating Frame Stacking Impact in RL](https://github.com/patrykkozuch/frame-stacking-rl): Diploma project for Bachelors degree - evaluates both Frame Stacking and Recurrent Neural Networks in Reinfrocement Learning training
 * [Simple RAG Systems](https://github.com/patrykkozuch/RAG-DV): Minimal RAG application, built in Streamlit utilizing **Qdrant** as the vector store, **Haystack** for the orchestration pipeline.
